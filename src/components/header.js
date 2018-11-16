@@ -65,7 +65,7 @@ const Header = ({ siteTitle }) => (
           height: '68px',
           }
         }>
-                <img src="../../public/static/home_logo.png" alt="" title="" />
+          <img src="../../images/home_logo.png" alt="" title="" />
       </div>
       <Container>
     <UlStyle>
